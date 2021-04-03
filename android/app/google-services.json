@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859622222007",
+    "project_id": "supernova-433f4",
+    "storage_bucket": "supernova-433f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859622222007:android:0bb6a8f8d18f9662d90532",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859622222007-fd0kgh4269c30abvn32t1aakqlf4bvm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6nEhuybMNt8JlAF6YhhVOISRGLIIex74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859622222007-fd0kgh4269c30abvn32t1aakqlf4bvm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
